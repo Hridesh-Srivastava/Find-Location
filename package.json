@@ -1,6 +1,6 @@
 {
   "name": "geo-spot-finder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Find geolocation through latitude and longitude.",
   "main": "dist/geo-spot-finder.js",
   "module": "dist/geo-spot-finder.js",
