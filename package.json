@@ -1,5 +1,5 @@
 {
-  "name": "find-location",
+  "name": "location-finder",
   "version": "1.0.0",
   "description": "Find geolocation through latitude and longitude.",
   "main": "index.js",
