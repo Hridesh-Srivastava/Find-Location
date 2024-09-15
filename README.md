@@ -10,15 +10,15 @@
 
 <h3>ES Module Syntax</h3>
 <p>To use the package with ES module syntax, import it as follows:</p>
-<pre><code>import geoLocation from "geo-spot-finder";
+<pre><code>import geoLocation from './node_modules/geo-spot-finder/index.js'; 
 
-geoLocation();</code></pre>
+</code></pre>
 
 <h3>CommonJS Syntax</h3>
 <p>To use the package with CommonJS syntax, require it as follows:</p>
-<pre><code>const geoLocation = require("geo-spot-finder");
+<pre><code>const geoLocation = require('./node_modules/geo-spot-finder/index.js');
 
-geoLocation();</code></pre>
+</code></pre>
 
 <h3>Sample HTML Code</h3>
 <p>Here’s a sample HTML file to demonstrate how to use the <code>geo-spot-finder</code> package:</p>
@@ -40,7 +40,7 @@ geoLocation();</code></pre>
 
 <h3>Sample JavaScript Code</h3>
 <p>Here’s how to include the package in your JavaScript file:</p>
-<pre><code>import geoLocation from "geo-spot-finder";
+<pre><code>import geoLocation from './node_modules/geo-spot-finder/index.js'; 
 
 geoLocation();</code></pre>
 
