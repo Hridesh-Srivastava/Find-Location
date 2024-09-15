@@ -21,9 +21,5 @@
   "bugs": {
     "url": "https://github.com/Hridesh-Srivastava/Find-Location/issues"
   },
-  "homepage": "https://github.com/Hridesh-Srivastava/Find-Location#readme",
-  "devDependencies": {
-    "@rollup/plugin-node-resolve": "^15.2.3",
-    "rollup": "^4.21.3"
-  }
+  "homepage": "https://github.com/Hridesh-Srivastava/Find-Location#readme"
 }
