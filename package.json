@@ -1,0 +1,23 @@
+{
+  "name": "find-location",
+  "version": "1.0.0",
+  "description": "Find geolocation through latitude and longitude.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hridesh-Srivastava/Find-Location.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Hridesh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Hridesh-Srivastava/Find-Location/issues"
+  },
+  "homepage": "https://github.com/Hridesh-Srivastava/Find-Location#readme"
+}
